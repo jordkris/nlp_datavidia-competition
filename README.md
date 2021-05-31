@@ -37,6 +37,6 @@ review_id, category
 
 [result-4](https://github.com/jordy-k/nlp_datavidia-competition/blob/main/submission/submission-4.png)
 
-Best Private Score : 0.88093 (88.09%)
+Best Private Score (F1-Score) : 0.88093 (88.09%)
 
-Best Public Score : 0.87692 (87.69%)
+Best Public Score (F1-Score) : 0.87692 (87.69%)
