@@ -30,8 +30,13 @@ review_id, category
 
 ## Submission Result
 [result-1](https://github.com/jordy-k/nlp_datavidia-competition/blob/main/submission/submission-1.png)
+
 [result-2](https://github.com/jordy-k/nlp_datavidia-competition/blob/main/submission/submission-2.png)
+
 [result-3](https://github.com/jordy-k/nlp_datavidia-competition/blob/main/submission/submission-3.png)
+
 [result-4](https://github.com/jordy-k/nlp_datavidia-competition/blob/main/submission/submission-4.png)
+
 Best Private Score : 0.88093 (88.09%)
+
 Best Public Score : 0.87692 (87.69%)
