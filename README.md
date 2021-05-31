@@ -16,11 +16,13 @@ Notes : Notebook yang dikumpulkan harap dapat menghasilkan hasil prediksi (outpu
 Supported By : CrediBook
 
 Metrik evaluasi dalam kompetisi ini adalah Macro F1 Score . F1 score, umumnya digunakan dalam information retreival, mengukur akurasi menggunakan statistics precision p dan recall r. Precision adalah rasio dari true positives (tp) dengan semua yang diprediksi positif(tp + fp). Recall adalah rasio dari true positives dengan semua actual positives (tp + fn). F1 score diformulasikan sebagai:
+
 [gambar](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3778503%2F52da4b83a324018ad6e662cd713af802%2FF1Score.png?generation=1611408103494983&alt=media)
 
 Submission Format
 File submisi harus mengandung tepat dua kolom: review_id, category
 
 review_id, category
+
 61d54cb2df35b8f36eabffcdd8d33b4d,0
 870963724618b62f14a1732cf2c41673,1
