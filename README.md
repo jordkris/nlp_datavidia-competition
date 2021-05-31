@@ -25,4 +25,5 @@ File submisi harus mengandung tepat dua kolom: review_id, category
 review_id, category
 
 61d54cb2df35b8f36eabffcdd8d33b4d,0
+
 870963724618b62f14a1732cf2c41673,1
